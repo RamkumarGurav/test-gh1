@@ -1,4 +1,4 @@
-##GitHub Practice
+# GitHub Practice
 
  **this is a demo repository for learning**
 
